@@ -1,3 +1,26 @@
+# Car Showcase Application with Next.js 13
+
+## Project Overview
+This project showcases a modern Next.js 13 application designed for a seamless car discovery, booking, and rental experience. Leveraging the latest Next.js 13 features, including server-side rendering and the App Router, this application simplifies the process of finding, booking, and renting cars, as well as adding new car listings. RapidAPI is integrated for external data retrieval.
+
+## Project Demo
+  [car-showcase-demoshot.webm](https://github.com/rjrahul08/car-showcase-app/assets/61372250/0cf3a216-df37-44b7-a0b3-51cf34704946)
+
+
+
+## Tech Stack
+- React
+- Next.js 13
+- TypeScript
+- Tailwind CSS
+- RapidAPI
+
+## Key Takeaways
+- Proficiently used Next.js 13, harnessing its server-side rendering and routing capabilities.
+- Implemented advanced search and filtering functionalities for a seamless user experience.
+- Prioritized SEO optimization and effective metadata management for improved discoverability.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
